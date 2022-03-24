@@ -2,9 +2,8 @@
 
 ## Introduction:-
 The Online Bus Ticket Reservation System is a web-based application that allows visitors check bus ticket
-availability, buy bus ticket and pay the bus ticket online (Asaad, Ayad and Hayder, 2012). This system is
-established for all the home/office users after gaining access from the administrator. According to Invaderzim
-(2011), Online Bus Reservation System provides bus transportation system, a facility to reserved seats,
+availability, buy bus ticket and pay the bus ticket online.This system is
+established for all the home/office users after gaining access from the administrator. The Online Bus Reservation System provides bus transportation system, a facility to reserved seats,
 cancellation of seats and different types of enquiry which need an instant and quick reservation. This system can
 be used by the users in performing online reservation via internet for their all business purposes.
 
