@@ -63,5 +63,5 @@ switch (n)
 }
 ## fopen():
 The fopen function opens a file called filename and associates it to stream.The fopen function clears all error and EOF indictors for the stream.The fopen() function also creates a new file.
-Syntax:
-FILE*fopen(const char *file_name,const char *mode_of_operation);
+     Syntax:
+          FILE*fopen(const char *file_name,const char *mode_of_operation);
