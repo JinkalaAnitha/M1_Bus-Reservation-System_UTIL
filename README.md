@@ -28,8 +28,9 @@ The "Bus Reservation System" is designed to automate online ticket purchasing th
   |4_Testplan|Documents with test plans and procedures|
   |5_Images and Output|Documents specifying the output images|
 ## References
-
-
+Greeks for Greeks
+Youtube C Programming
+Module C Lectures
 
 ## SDLC Activity
-
+[![CI](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml)
