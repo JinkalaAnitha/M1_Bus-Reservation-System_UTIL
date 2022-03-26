@@ -22,7 +22,6 @@ Inclusion of header files. These are files of declarations that can be substitut
 Pointers: The Pointer in C, is a variable that stores address of another variable. A pointer can also be used to refer to another pointer function. A pointer can be incremented/decremented, i.e., to point to the next/ previous memory location. The purpose of pointer is to save memory space and achieve faster execution time. Like variables, pointers in C programming have to be declared before they can be used in your program. Pointers can be named anything you want as long as they obey C’s naming rules. A pointer declaration has the following form.
 
 syntax: data_type * pointer_variable_name;
-
 Types of Pointers in C: 1.Null Pointer 2.Void Pointer 3.Wild pointer 4.Dangling pointer
 
 ## funtion pointer:
@@ -47,3 +46,22 @@ By convention, uppercase letters are used for these definitions to remind the us
 You can use typedef to give a name to your user defined data types as well. For example, you can use typedef with structure to define a new data type and then use that data type to define structure variables directly
 
 Syntax: typedef data_type new_name
+## Switch:
+Switch case statement evaluates a given expression and based on the evaluated value,it executes the statements associated with it.The switch statement,Which is used to perform different actions based on different conditions.
+* Switch case statements follow a selection-control mechanism and allow a value to change control of execution.
+* They are a substitute for long if statements that compare a variable to several integral values.
+* The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression.
+### Syntax: 
+
+switch (n)
+{
+    case 1: // code to be executed if n = 1;
+        break;
+    case 2: // code to be executed if n = 2;
+        break;
+    default: // code to be executed if n doesn't match any cases
+}
+## fopen():
+The fopen function opens a file called filename and associates it to stream.The fopen function clears all error and EOF indictors for the stream.The fopen() function also creates a new file.
+Syntax:
+FILE*fopen(const char *file_name,const char *mode_of_operation);
