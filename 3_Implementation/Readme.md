@@ -46,12 +46,69 @@ By convention, uppercase letters are used for these definitions to remind the us
 You can use typedef to give a name to your user defined data types as well. For example, you can use typedef with structure to define a new data type and then use that data type to define structure variables directly
 
 Syntax: typedef data_type new_name
+# Conditional Statements:-
+The Conditional Statements help you to make a decision based on certain conditions.
+## If Statement:
+The single if statement is used to execute the block of code if a condition is true.
+#### Syntax
+   if(expression)
+   {
+      //code to be executed
+   }
+## If-else Statement:
+This statement is used to execute the code if condition is true or false.It is also called two-way selection statement.
+#### Syntax
+      if(exp)
+      {
+       //statements
+      }
+      else
+      {
+       //statements
+      }
+## Nested If-else Statement:
+This statement is used when a program requires more than one test expression.It is also called a multi-way selection statement.
+#### Syntax
+     if(exp)
+     {
+      if(exp1)
+      {
+       statements---1;
+      }
+      else
+      {
+       statements---2;
+      }
+     }
+     else
+     {
+      statements----3;
+     }
+## If..else if ladder:
+Which is used to execute one code from multiple conditions.
+  #### Syntax
+        if(cond1)
+        {
+          //statements
+        }
+        else if(cond2)
+        {
+          //statements
+        }
+        else if(cond3)
+        {
+         //statements
+        }
+        else
+        {
+         //statements
+        }
 ## Switch:
 Switch case statement evaluates a given expression and based on the evaluated value,it executes the statements associated with it.The switch statement,Which is used to perform different actions based on different conditions.
 * Switch case statements follow a selection-control mechanism and allow a value to change control of execution.
 * They are a substitute for long if statements that compare a variable to several integral values.
 * The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression.
-#### Syntax: 
+#### Syntax
 
 switch (n)
 {
