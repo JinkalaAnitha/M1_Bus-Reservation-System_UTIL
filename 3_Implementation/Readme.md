@@ -68,5 +68,5 @@ The fopen function opens a file called filename and associates it to stream.The 
  ## fclose():
  The fclose() function closes a stream pointed to by stream.This function deletes all buffers that are associated with the stream before closing it.Whwn it closes the stream ,the function releases any buffers that the system reserved.When a binary stream is closed,the last record in the file is padded with null charactrers(\0) to the end of the record.
  #### Syntax
- int fclose(FILE *stream);
+      int fclose(FILE *stream);
  
