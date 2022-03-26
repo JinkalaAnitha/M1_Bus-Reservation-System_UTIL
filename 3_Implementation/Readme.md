@@ -118,6 +118,7 @@ switch (n)
         break;
     default: // code to be executed if n doesn't match any cases
 }
+# File Handling Functions
 ## fopen():
 The fopen function opens a file called filename and associates it to stream.The fopen function clears all error and EOF indictors for the stream.The fopen() function also creates a new file.
  #### Syntax
