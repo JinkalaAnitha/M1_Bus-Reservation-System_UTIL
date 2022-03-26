@@ -51,7 +51,7 @@ Switch case statement evaluates a given expression and based on the evaluated va
 * Switch case statements follow a selection-control mechanism and allow a value to change control of execution.
 * They are a substitute for long if statements that compare a variable to several integral values.
 * The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression.
-### Syntax: 
+#### Syntax: 
 
 switch (n)
 {
@@ -63,5 +63,5 @@ switch (n)
 }
 ## fopen():
 The fopen function opens a file called filename and associates it to stream.The fopen function clears all error and EOF indictors for the stream.The fopen() function also creates a new file.
-     Syntax:
+ #### Syntax:
           FILE*fopen(const char *file_name,const char *mode_of_operation);
