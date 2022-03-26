@@ -63,5 +63,10 @@ switch (n)
 }
 ## fopen():
 The fopen function opens a file called filename and associates it to stream.The fopen function clears all error and EOF indictors for the stream.The fopen() function also creates a new file.
- #### Syntax:
+ #### Syntax
           FILE*fopen(const char *file_name,const char *mode_of_operation);
+ ## fclose():
+ The fclose() function closes a stream pointed to by stream.This function deletes all buffers that are associated with the stream before closing it.Whwn it closes the stream ,the function releases any buffers that the system reserved.When a binary stream is closed,the last record in the file is padded with null charactrers(\0) to the end of the record.
+ #### Syntax
+ int fclose(FILE *stream);
+ 
