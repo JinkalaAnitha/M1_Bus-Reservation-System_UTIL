@@ -34,3 +34,5 @@ Module C Lectures
 
 ## SDLC Activity
 [![CI](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml)
+![Code Quality Score](https://api.codiga.io/project/32114/score/svg)
+![Code Grade](https://api.codiga.io/project/32114/status/svg)
