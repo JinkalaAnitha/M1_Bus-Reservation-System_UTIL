@@ -44,3 +44,4 @@ Module C Lectures
 [![dynamic check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml)
 [![Build Linux](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Linux.yml)
 [![Build Windows](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Windows.yml)
+[![Unit testing](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Unit%20testing.yml)
