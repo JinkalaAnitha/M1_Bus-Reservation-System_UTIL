@@ -38,4 +38,5 @@ Module C Lectures
 ![Code Grade](https://api.codiga.io/project/32114/status/svg)
     ![Codiga Badge](https://app.codiga.io/public/user/github/JinkalaAnitha)
     ![Codacy](https://user-images.githubusercontent.com/101356849/160283983-8df57d6f-5a44-4fc6-b296-d751486815cc.jpg)
+    [![Static Check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml)
 
