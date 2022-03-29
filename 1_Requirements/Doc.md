@@ -64,6 +64,23 @@ There are few steps in bus reseversation system to get ticket virtually
 |HR04|Management should be able to enter payment details.|Technical|
 HR05|Management should be able to provide options to cancel the ticket and get back money.    |Tchnical|
   
+## Low level Requirements:
 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ---- | -------------------------------------- | ---- | ----- |
+| LR01 | Management should be able to select the choice | HR01 | TBD-S1 |
+| LR02 | Management should be able to see choice 1 number of seats available | HR02 | TBD-S1 |
+| LR03 | Management should be able to select choice 2 number of seats they want| HR02 | TBD-S1 |
+| LR04 | Management should be able to select choice 3 seat number | HR02 | TBD-S1 |
+| LR05 | Management should be able to select choice 4 Transcation details and cancellation of ticket| HR04 | TBD-S1 |
+| LR06 | Details should be sorted according to selected case | HR07 | TBD-S1 |
+
+
+## Best methods followed
+ * Used functions to decrease dependency on main function.
+ * Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of Banking management system.
+ * Printf statements have been placed only wherever necessary to avoid confusions.
+ * Created header file so that the fuctions can be used else where ever required without any difficulty.
+ * Unit testing is done to avoid any computational errors.
 
 
