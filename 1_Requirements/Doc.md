@@ -11,7 +11,7 @@ be used by the users in performing online reservation via internet for their all
 * First module retrieves data from tables required for enquire.
 * Second module inserts values into the tables on reservation.
 * Third module deletes values into from the table on cancellation of tickets.
-## What is Bus Reservation System?
+## What is Bus Reservation System
 Bus Reservation System helps you schedule bus routes and tours with ease. The system allows. you to plan, schedule and manage unlimited routes with start, end and stop destinations, create a route timetable, print bus schedules, seat and passenger lists.
 ## Objective Of Project
 Traveling is a large growing business across all countries. Bus reservation system deals with maintenance of records of details of each passenger. It also includes maintenance of information like schedule and details of each bus.
@@ -34,24 +34,24 @@ You can choose a seat of your choice from the sitting arrangement and pay only w
 ![Bus Reservation System](https://itsourcecode.com/wp-content/uploads/2021/05/Bus-Resservation-System-DFD-Level-1.png?ezimgfmt=ng:webp/ngcb33)
 ## Explanation:-
 There are few steps in bus reseversation system to get ticket virtually
-* Easy Registration & Social Login
-* Destination,Date/Time,Passengers
-* Trip Choice & Tour Details
-* Passenger's Information
+*  Easy Registration & Social Login
+*  Destination,Date/Time,Passengers
+*  Trip Choice & Tour Details
+*  Passenger's Information
 ## SWOT Analysis
 ![baSwot analysis](https://iide.co/wp-content/uploads/2021/12/SWOT-Analysis-of-redBus-SWOT-Infographics-of-redBus.png)
 ## 4W's and 1H:-
 ### Who
-* The Bus ReservationVis a software solution by providing oraganized form.This application provide the best path for passengers to travel.It is Cloud Based Online Software.
+*  The Bus ReservationVis a software solution by providing oraganized form.This application provide the best path for passengers to travel.It is Cloud Based Online Software.
 ### What
-* It is Very helpful to passengers because the passenger can get their tickets in short time through online reservation system.It needs Internet only and they can select desired seats.
+*  It is Very helpful to passengers because the passenger can get their tickets in short time through online reservation system.It needs Internet only and they can select desired seats.
 ### When
-* The Bus Reservation System is currently used in Transportation department for easy sorting
+*  The Bus Reservation System is currently used in Transportation department for easy sorting
      eg:redBus
 ### Where
-* Face the issues in collection of Passenger Details and in cancellation of ticket.
+*  Face the issues in collection of Passenger Details and in cancellation of ticket.
 ### How
-* This issue can be solved by getting the cancellation request from passenger with proper feedback.
+*  This issue can be solved by getting the cancellation request from passenger with proper feedback.
 ## Detail Requirements:-
 
 
