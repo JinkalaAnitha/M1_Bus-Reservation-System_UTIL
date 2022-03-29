@@ -42,17 +42,15 @@ There are few steps in bus reseversation system to get ticket virtually
 ![baSwot analysis](https://iide.co/wp-content/uploads/2021/12/SWOT-Analysis-of-redBus-SWOT-Infographics-of-redBus.png)
 ## 4W's and 1H:-
 ### Who
-  
-  * The Bus ReservationVis a software solution by providing oraganized form.This application provide the best path for passengers to travel.It is Cloud Based Online Software.
-
-  ### What
-   * It is Very helpful to passengers because the passenger can get their tickets in short time through online reservation system.It needs Internet only and they can select desired seats.
-   ### When
-   * The Bus Reservation System is currently used in Transportation department for easy sorting
+* The Bus ReservationVis a software solution by providing oraganized form.This application provide the best path for passengers to travel.It is Cloud Based Online Software.
+### What
+* It is Very helpful to passengers because the passenger can get their tickets in short time through online reservation system.It needs Internet only and they can select desired seats.
+### When
+* The Bus Reservation System is currently used in Transportation department for easy sorting
      eg:redBus
-   ### Where
-   * Face the issues in collection of Passenger Details and in cancellation of ticket.
-   ### How
+### Where
+* Face the issues in collection of Passenger Details and in cancellation of ticket.
+### How
 * This issue can be solved by getting the cancellation request from passenger with proper feedback.
 ## Detail Requirements:-
 
