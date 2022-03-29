@@ -81,7 +81,7 @@ void bus()
 void booking()
 {
 
-    int i=0;
+   
     char numstr[100];
 system("cls");
 printf("=========================================== BUS RESERVATION SYSTEM ============================================\n\n\n");//for entering train number
