@@ -31,7 +31,9 @@ No hidden catch or charges are there. It is very simple to book online and you g
 ### Seat of your choice
 You can choose a seat of your choice from the sitting arrangement and pay only what you should pay and nothing more. 
 ## Define System
-![Bus Reservation System](https://itsourcecode.com/wp-content/uploads/2021/05/Bus-Resservation-System-DFD-Level-1.png?ezimgfmt=ng:webp/ngcb33)
+![Bus Reservation System](https://itsourcecode.com/wp-content/uploads/2021/05/Bus-Resservation-System-DFD-Level-1.png?ezimgfmt=ng:webp/ngcb33)U
+### UML Diagram for Bus Reservation System
+https://4.bp.blogspot.com/-J1uz8u5uTMU/UHafeu-Np2I/AAAAAAAAAVY/ve2i7O5G5J4/s1600/OnlineMovieTicketBookingSystem-UseCaseDiagram.jpg
 ## Explanation:-
 There are few steps in bus reseversation system to get ticket virtually
 *  Easy Registration & Social Login
