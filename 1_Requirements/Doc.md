@@ -8,8 +8,8 @@ cancellation of seats and different types of enquiry which need an instant and q
 be used by the users in performing online reservation via internet for their all business purposes.
 
    This reservation system has three modules. First module helps the customer to enquire the availability of seats in a particular bus at particular date. Second module helps him to reserve a ticket. Using third module he can cancel a reserved ticket.
-  * First module retrieves data from tables required for enquire.
- * Second module inserts values into the tables on reservation.
+* First module retrieves data from tables required for enquire.
+* Second module inserts values into the tables on reservation.
 * Third module deletes values into from the table on cancellation of tickets.
 ## What is Bus Reservation System?
 Bus Reservation System helps you schedule bus routes and tours with ease. The system allows. you to plan, schedule and manage unlimited routes with start, end and stop destinations, create a route timetable, print bus schedules, seat and passenger lists.
