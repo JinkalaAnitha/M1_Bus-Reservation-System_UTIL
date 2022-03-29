@@ -52,9 +52,9 @@ There are few steps in bus reseversation system to get ticket virtually
 *  Face the issues in collection of Passenger Details and in cancellation of ticket.
 ### How
 *  This issue can be solved by getting the cancellation request from passenger with proper feedback.
-## Detail Requirements:-
+## Detail Requirements
 
-
+### High Level Requirements
 | ID      |   Description   | Category|
 |-------  |---------     |   --------|
 |  HR01   |Operator(Admin):Management should be able to schedules the buses |     Technical   |  |         |
@@ -64,7 +64,7 @@ There are few steps in bus reseversation system to get ticket virtually
 |HR04|Management should be able to enter payment details.|Technical|
 HR05|Management should be able to provide options to cancel the ticket and get back money.    |Tchnical|
   
-## Low level Requirements:
+### Low level Requirements
 
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ---- | -------------------------------------- | ---- | ----- |
