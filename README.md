@@ -36,8 +36,7 @@ Module C Lectures
 [![CI](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml)
 ![Code Quality Score](https://api.codiga.io/project/32114/score/svg)
 ![Code Grade](https://api.codiga.io/project/32114/status/svg)
-    
-    [![Static Check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml)
+[![Static Check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml)
 [![cpp check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml)
 [![valgrimd](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/valgrimd.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/valgrimd.yml)
 [![dynamic check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml)
