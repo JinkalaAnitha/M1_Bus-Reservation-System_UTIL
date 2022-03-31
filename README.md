@@ -41,6 +41,8 @@ Module C Lectures
 
 ![Code Grade](https://api.codiga.io/project/32114/status/svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/320c915dc80945df9f1bad18c2300a4e)](https://www.codacy.com/gh/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JinkalaAnitha/M1_Bus-Reservation-System_UTIL&amp;utm_campaign=Badge_Grade)
+
 [![Static Check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml)
 
 [![cpp check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml)
