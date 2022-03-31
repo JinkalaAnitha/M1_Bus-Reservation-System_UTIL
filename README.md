@@ -27,6 +27,7 @@ The "Bus Reservation System" is designed to automate online ticket purchasing th
   |3_Implementation|All code and documentation|
   |4_Testplan|Documents with test plans and procedures|
   |5_Images and Output|Documents specifying the output images|
+  |6_Report  |Whole Project Document|
 ## References
 Greeks for Greeks
 
@@ -35,31 +36,32 @@ Youtube C Programming
 Module C Lectures
 
 ## SDLC Activity
+### CI
 [![CI](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml)
-
+### Code Quality Analysis
 ![Code Quality Score](https://api.codiga.io/project/32114/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/32114/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/320c915dc80945df9f1bad18c2300a4e)](https://www.codacy.com/gh/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JinkalaAnitha/M1_Bus-Reservation-System_UTIL&amp;utm_campaign=Badge_Grade)
-
+### Static Check
 [![Static Check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Static%20Check.yml)
-
+### Cpp Check
 [![cpp check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/cpp%20check.yml)
-
+### Valgrimd
 [![valgrimd](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/valgrimd.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/valgrimd.yml)
-
+### Dynamic Check
 [![dynamic check](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/dynamic%20check.yml)
-
+### Build Linux
 [![Build Linux](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Linux.yml)
-
+### Build Windows
 [![Build Windows](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Build%20Windows.yml)
-
+### Unit Testing
 [![Unit testing](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Unit%20testing.yml)
-
+### Contribution Check-Git Inspector
 [![Contribution Check-Git Inspector](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
-
+### CPPCHECK
 [![CPPCHECK](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/CPPCHECK.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/CPPCHECK.yml)
-
+### Codiga-Code Quality Score
 ![Codiga Badge](https://app.codiga.io/public/user/github/JinkalaAnitha)
     ![Codacy](https://user-images.githubusercontent.com/101356849/160283983-8df57d6f-5a44-4fc6-b296-d751486815cc.jpg)
