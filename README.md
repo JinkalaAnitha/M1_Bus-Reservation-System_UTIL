@@ -35,6 +35,7 @@ Youtube C Programming
 Module C Lectures
 
 ## SDLC Activity
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f229e4bf3ad4a1e833bb7484ffd0f4e)](https://app.codacy.com/gh/JinkalaAnitha/M1_Bus-Reservation-System_UTIL?utm_source=github.com&utm_medium=referral&utm_content=JinkalaAnitha/M1_Bus-Reservation-System_UTIL&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JinkalaAnitha/M1_Bus-Reservation-System_UTIL/actions/workflows/main.yml)
 
 ![Code Quality Score](https://api.codiga.io/project/32114/score/svg)
