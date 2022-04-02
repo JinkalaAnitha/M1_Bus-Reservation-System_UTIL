@@ -65,7 +65,7 @@ There are few steps in bus reseversation system to get ticket virtually
 |HR03|   Management should be able to enter passenger name,address,gender and phone number,Destination point,Navigation.|Technical
 |HR03|  Management should me able to provide passenger deatails to Driver/Conductor.|Technical|
 |HR04|Management should be able to enter payment details.|Technical|
-HR05|Management should be able to provide options to cancel the ticket and get back money.    |Tchnical|
+HR05|Management should be able to provide options to cancel the ticket and get back money.    |Technical|
   
 ### Low level Requirements
 
